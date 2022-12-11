@@ -558,3 +558,102 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+.fixed {
+  position: fixed;
+}
+
+.top-0 {
+  top: 0px;
+}
+
+.bottom-0 {
+  bottom: 0px;
+}
+
+.flex {
+  display: flex;
+}
+
+.hidden {
+  display: none;
+}
+
+.h-\[10vh\] {
+  height: 10vh;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.w-\[50\%\] {
+  width: 50%;
+}
+
+.w-\[30\%\] {
+  width: 30%;
+}
+
+.w-\[20em\] {
+  width: 20em;
+}
+
+.w-\[30em\] {
+  width: 30em;
+}
+
+.w-\[2em\] {
+  width: 2em;
+}
+
+.w-\[4em\] {
+  width: 4em;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.border {
+  border-width: 1px;
+}
+
+.p-5 {
+  padding: 1.25rem;
+}
+
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
+@media (min-width: 640px) {
+  .sm\:top-0 {
+    top: 0px;
+  }
+
+  .sm\:block {
+    display: block;
+  }
+
+  .sm\:w-\[30em\] {
+    width: 30em;
+  }
+}

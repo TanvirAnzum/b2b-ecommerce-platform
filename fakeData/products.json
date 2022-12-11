@@ -1,0 +1,42 @@
+[
+  {
+    "id": 12344,
+    "title": "Product 1",
+    "units": "12",
+    "displayPicture": "Link",
+    "price": 100,
+    "Status": "In Stock"
+  },
+  {
+    "id": 12345,
+    "title": "Product 2",
+    "units": "12",
+    "displayPicture": "Link",
+    "price": 100,
+    "Status": "In Stock"
+  },
+  {
+    "id": 12346,
+    "title": "Product 3",
+    "units": "12",
+    "displayPicture": "Link",
+    "price": 200,
+    "Status": "In Stock"
+  },
+  {
+    "id": 12347,
+    "title": "Product 4",
+    "units": "13",
+    "displayPicture": "Link",
+    "price": 700,
+    "Status": "In Stock"
+  },
+  {
+    "id": 12348,
+    "title": "Product 5",
+    "units": "15",
+    "displayPicture": "Link",
+    "price": 400,
+    "Status": "Upcoming"
+  }
+]
