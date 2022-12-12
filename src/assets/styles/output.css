@@ -722,6 +722,22 @@ video {
   height: auto;
 }
 
+.h-full {
+  height: 100%;
+}
+
+.h-\[100vh\] {
+  height: 100vh;
+}
+
+.h-\[90vh\] {
+  height: 90vh;
+}
+
+.h-\[88vh\] {
+  height: 88vh;
+}
+
 .min-h-\[16vh\] {
   min-height: 16vh;
 }
@@ -756,6 +772,10 @@ video {
 
 .min-h-\[36em\] {
   min-height: 36em;
+}
+
+.min-h-\[88vh\] {
+  min-height: 88vh;
 }
 
 .w-full {
@@ -838,6 +858,14 @@ video {
 
 .cursor-pointer {
   cursor: pointer;
+}
+
+.list-inside {
+  list-style-position: inside;
+}
+
+.list-decimal {
+  list-style-type: decimal;
 }
 
 .flex-row-reverse {
@@ -1197,9 +1225,18 @@ video {
   background-color: rgb(100 116 139 / var(--tw-bg-opacity));
 }
 
+.hover\:font-semibold:hover {
+  font-weight: 600;
+}
+
 .hover\:text-white:hover {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.hover\:text-green-500:hover {
+  --tw-text-opacity: 1;
+  color: rgb(34 197 94 / var(--tw-text-opacity));
 }
 
 .focus\:ring:focus {

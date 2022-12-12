@@ -10,7 +10,7 @@ const Login = () => {
     reset();
   };
   return (
-    <div className="w-full min-h-screen flex flex-col gap-5 sm:mt-20 items-center justify-center">
+    <div className="w-full min-h-[88vh] flex flex-col gap-5 sm:mt-20 items-center justify-center">
       <div className="w-[90%] sm:w-[22em] min-h-[30em] flex flex-col bg-base-100 rounded-lg p-8 gap-5 shadow-2xl shadow-slate-400">
         <div className="flex items-center justify-between">
           <h1 className="text-xl uppercase font-bold text-center ">Sign In</h1>
