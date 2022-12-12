@@ -5,6 +5,7 @@ import payments from "../fakeData/payments.json";
 const Payments = () => {
   return (
     <div className="w-full flex flex-col gap-5 sm:mt-20">
+      <h1 className="text-center text-3xl font-bold my-2">Payments</h1>
       <div className="flex items-start justify-center sm:justify-start gap-1">
         <label
           htmlFor="method"

@@ -21,7 +21,7 @@
     "displayPicture": "Link",
     "price": 200,
     "date": "12/11/2022, 2:08:52 PM",
-    "paymentStatus": "on hold"
+    "paymentStatus": "recieved"
   },
   {
     "id": 12347,
@@ -29,7 +29,7 @@
     "displayPicture": "Link",
     "price": 700,
     "date": "11/11/2022, 1:08:52 PM",
-    "paymentStatus": "refund"
+    "paymentStatus": "recieved"
   },
   {
     "id": 12348,
