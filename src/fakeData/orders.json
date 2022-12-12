@@ -2,11 +2,12 @@
   {
     "id": 12344,
     "title": "Product 1",
-    "status": "shipped",
+    "status": "accepted",
     "displayPicture": "Link",
     "price": 100,
-    "date": "12/11/2022, 1:08:52 PM",
-    "paymentStatus": "paid"
+    "date": "12/11/2022, 11:12:52 AM",
+    "paymentStatus": "paid",
+    "quantity": 2
   },
   {
     "id": 12345,
@@ -14,8 +15,9 @@
     "status": "pending",
     "displayPicture": "Link",
     "price": 100,
-    "date": "11/11/2022, 1:08:52 PM",
-    "paymentStatus": "cod"
+    "date": "11/11/2022, 11:18:52 AM",
+    "paymentStatus": "cod",
+    "quantity": 2
   },
   {
     "id": 12346,
@@ -23,7 +25,7 @@
     "status": "shipped",
     "displayPicture": "Link",
     "price": 200,
-    "date": "12/11/2022, 2:08:52 PM",
+    "date": "12/11/2022, 11:28:52 AM",
     "paymentStatus": "paid"
   },
   {
@@ -32,8 +34,9 @@
     "status": "accepted",
     "displayPicture": "Link",
     "price": 700,
-    "date": "11/11/2022, 1:08:52 PM",
-    "paymentStatus": "cod"
+    "date": "10/11/2022, 11:38:52 AM",
+    "paymentStatus": "cod",
+    "quantity": 2
   },
   {
     "id": 12348,
@@ -41,7 +44,8 @@
     "status": "shipped",
     "displayPicture": "Link",
     "price": 400,
-    "date": "12/11/2022, 3:08:52 PM",
-    "paymentStatus": "paid"
+    "date": "12/11/2022, 10:12:52 AM",
+    "paymentStatus": "paid",
+    "quantity": 2
   }
 ]

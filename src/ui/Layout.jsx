@@ -5,9 +5,12 @@ import NavBar from "../components/NavBar";
 
 const Layout = () => {
   return (
-    <div>
+    <div className="bg-slate-100">
       <NavBar />
-      <Outlet />
+      <div className="w-full sm:w-[80%] min-h-screen p-5 mx-auto ">
+        <Outlet />
+      </div>
+
       <Footer />
     </div>
   );

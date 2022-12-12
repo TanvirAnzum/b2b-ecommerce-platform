@@ -3,30 +3,30 @@
     "id": 1,
     "name": "John Doe",
     "orders": 10,
-    "displayPicture": "Link"
+    "displayPicture": "https://i.ibb.co/mSg1ZL0/superman.png"
   },
   {
     "id": 2,
     "name": "John Snow",
     "orders": 20,
-    "displayPicture": "Link"
+    "displayPicture": "https://i.ibb.co/mSg1ZL0/superman.png"
   },
   {
     "id": 3,
     "name": "John Cena",
     "orders": 40,
-    "displayPicture": "Link"
+    "displayPicture": "https://i.ibb.co/mSg1ZL0/superman.png"
   },
   {
     "id": 4,
     "name": "John Kabir",
     "orders": 5,
-    "displayPicture": "Link"
+    "displayPicture": "https://i.ibb.co/mSg1ZL0/superman.png"
   },
   {
     "id": 5,
     "name": "John Kent",
     "orders": 2,
-    "displayPicture": "Link"
+    "displayPicture": "https://i.ibb.co/mSg1ZL0/superman.png"
   }
 ]
